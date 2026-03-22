@@ -1,0 +1,12 @@
+global using Xunit;
+global using InventorySystem.Core;
+global using InventorySystem.Core.Enums;
+global using InventorySystem.Core.Items;
+global using InventorySystem.Core.Items.Weapons;
+global using InventorySystem.Core.Items.Armors;
+global using InventorySystem.Core.Items.Potions;
+global using InventorySystem.Core.Items.Quests;
+global using InventorySystem.Storage;
+global using InventorySystem.Patterns.Strategy.Enums;
+global using InventorySystem.Patterns.Strategy.Enhancement;
+global using InventorySystem.Patterns.Factory;

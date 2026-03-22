@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "src\VendingMachine.csproj", "{6E91E763-386C-4B55-98D4-A9F832C55375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E91E763-386C-4B55-98D4-A9F832C55375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E91E763-386C-4B55-98D4-A9F832C55375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E91E763-386C-4B55-98D4-A9F832C55375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E91E763-386C-4B55-98D4-A9F832C55375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AEEC2D-BA84-4139-B1DF-23D54EE6FDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AEEC2D-BA84-4139-B1DF-23D54EE6FDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AEEC2D-BA84-4139-B1DF-23D54EE6FDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AEEC2D-BA84-4139-B1DF-23D54EE6FDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11AEEC2D-BA84-4139-B1DF-23D54EE6FDD2} = {8B3562EB-4C0E-42BA-B92C-B4E49304AB2F}
+	EndGlobalSection
+EndGlobal
